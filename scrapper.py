@@ -21,5 +21,5 @@ def create_currency():
 
     print({'S. No.':SNo, 'Name of State / UT':State, 'Active Cases*':Active, 'Cured/Discharged/Migrated*':Cured})
 
-
+#hai
 create_currency()
